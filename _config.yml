@@ -1,8 +1,8 @@
 title: Hyunseok Byun || TIL
 description: 'Hyunseok Byun'
 permalink: ':title/'
-baseurl: "Resting..." # the subpath of your site, e.g. /blog
-url: "https://b-hs.github.io/" # the base hostname & protocol for your site, e.g.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://b-hs.github.io/Resting..." # the base hostname & protocol for your site, e.g.
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
