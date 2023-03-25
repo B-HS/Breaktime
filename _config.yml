@@ -8,7 +8,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Hyunseok Byun # add your name
 author-img: profile.png # add your photo
-about-author: https://hyns.dev # add description
+about-author: https://hyns.dev<br>Happy developer # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: B-HS # add your Github handle

@@ -884,11 +884,11 @@ table tfoot td {
 }
 
 .wrapper {
-  max-width: 1250px;
   position: relative;
 }
 
 .post, .article-page {
+  width:100%;
   background-color: #fff;
 }
 
@@ -988,8 +988,6 @@ table tfoot td {
           transform: translateX(-50%);
   bottom: 0;
   display: block;
-  width: 7px;
-  height: 7px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
   background-color: #515151;
@@ -1200,7 +1198,7 @@ a.newer-posts:hover {
 }
 
 .header-page {
-  text-align: center;
+  text-align: left;
   margin: 10px 0;
 }
 
@@ -1403,9 +1401,9 @@ a.newer-posts:hover {
         -ms-flex-direction: column;
             flex-direction: column;
     -webkit-box-pack: justify;
-    -webkit-justify-content: space-between;
+    -webkit-justify-content: flex-start;
         -ms-flex-pack: justify;
-            justify-content: space-between;
+            justify-content: flex-start;
     width: 100%;
     padding: 10px;
     background-color: #ffffff;
