@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 깃허브 블로그를 만들어보자
-date: 2017-09-12 00:00:00 +0900
+date: 2023-03-25 15:33:00 +0900
 description: 첫글, 너무 피곤하면 글로 채우자
-img: profile
+img: 뱁새.png
 tags: [] # add tag
 ---
 0324 첫글, 너무 피곤하면 글로 채우자
