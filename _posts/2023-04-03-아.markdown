@@ -1,0 +1,15 @@
+---
+layout: post
+title: 아
+date: 2023-04-03 20:31:00 +0900
+description: 오늘..
+img: seyana.png
+tags: [] # add tag
+---
+
+오늘 사무실 세팅을 했다<br>
+
+힘들어 죽을 것 같다<br>
+
+오늘 vue3 선고가 이뤄졌으니.. 남는 시간 조금씩 보고 일찍 자야겠다
+
